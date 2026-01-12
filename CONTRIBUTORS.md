@@ -283,3 +283,6 @@ Hi all! I'm Ijeoma, a frontend developer and technical writer. I'm really focuse
 
 ## Sagnik Sahoo
 Hey 👋, This is Sagnik . I am 17 years old student,developer and a designer from India. Let's connect with [me](https://heysagnik.vercel.app/)
+## Mudra Swami
+Hello everyone! My name is Mudra Swami. I am a Computer Science student and beginner open-source contributor. I am learning cloud computing, Python, and open-source development, and excited to collaborate and grow with the community.
+
